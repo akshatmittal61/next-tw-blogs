@@ -4,7 +4,7 @@ import React from "react";
 
 const Header: React.FC = () => {
 	return (
-		<header className="w-screen px-8 py-4 flex justify-between items-center border-b-2 border-stone-400">
+		<header className="w-screen px-8 py-4 flex justify-between items-center border-b-2 border-stone-200">
 			<Link href="/">
 				<Image
 					src="https://akshatmittal61.vercel.app/favicon-512.png"

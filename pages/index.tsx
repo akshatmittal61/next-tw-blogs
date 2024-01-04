@@ -1,12 +1,8 @@
 import Header from "@/components/Header";
 import React from "react";
 
-const App: React.FC = () => {
-	return (
-		<main className="h-screen flex items-center justify-start flex-col gap-4">
-			<Header />
-		</main>
-	);
+const HomePage: React.FC = () => {
+	return <>Hello World</>;
 };
 
-export default App;
+export default HomePage;
