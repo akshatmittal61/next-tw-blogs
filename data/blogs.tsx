@@ -9,7 +9,7 @@ const blogs: IBlog[] = [
 		slug: "how-to-use-nextjs-with-tailwindcss",
 		date: "2021-08-24",
 		author: "Akshat Mittal",
-		coverImage: "https://akshatmittal61.vercel.app/og-image.png",
+		coverImage: "https://akshatmittal61.vercel.app/banner.png",
 	},
 	{
 		id: 2,
@@ -19,7 +19,7 @@ const blogs: IBlog[] = [
 		slug: "react-hooks-usestate",
 		date: "2022-04-24",
 		author: "Akshat Mittal",
-		coverImage: "https://akshatmittal61.vercel.app/og-image.png",
+		coverImage: "https://akshatmittal61.vercel.app/banner.png",
 	},
 ];
 
